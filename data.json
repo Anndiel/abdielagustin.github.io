@@ -1,0 +1,19 @@
+{
+  "years_experience": 14,
+  "integrations_delivered": 120,
+  "clients_supported": 35,
+  "countries_supported": 8,
+  "tech_distribution": {
+    "M3 / ERP": 40,
+    "ION / MEC": 25,
+    "API Development": 20,
+    "Automation": 15
+  },
+  "projects": [
+    "M3 – Medius AP Integration Architecture",
+    "Bank Multi-Country Payment Automation",
+    "CRM (HubSpot) – M3 Data Synchronization",
+    "Supplier Self-Service Portal Design",
+    "Docufree Integration to M3 Data"
+  ]
+}
