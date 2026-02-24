@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f7fb;
+  color: #1a1a1a;
+}
+
+header {
+  background: #0d3b66;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.card {
+  background: white;
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.card h2 {
+  color: #0d3b66;
+  font-size: 2rem;
+}
+
+section {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+canvas {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+ul {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  list-style: none;
+}
+
+ul li {
+  padding: .5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #0d3b66;
+  color: white;
+}
